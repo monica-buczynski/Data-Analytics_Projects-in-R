@@ -1,2 +1,2 @@
 # Econometrics_Course-Projects
-Files related to several Econometrics course assignments during my undergraduate.  
+Files related to various data science projects. 
