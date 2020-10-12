@@ -6,3 +6,4 @@ Files related to various data science projects.
 - Data transformation practice 
 - Tidy data practice 
 - Relational data practice 
+- Text Modeling 
